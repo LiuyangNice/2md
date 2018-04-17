@@ -1,0 +1,62 @@
+{
+    "directory": {
+        "id": "5a549d309d95104ccf27c110",
+        "name": "15",
+        "updateTime": "2018-02-09T07:55:52.707Z",
+        "childDirs": [
+            {
+                "id": "5a7928d523751a577ff54ee3",
+                "name": "Week 1: Quince Orchard",
+                "updateTime": "2018-02-09T06:55:55.626Z"
+            },
+            {
+                "id": "5a7d4bc58c1ce557941641fd",
+                "name": "Week 2: Northwest (2)",
+                "updateTime": "2018-02-09T07:42:15.429Z"
+            },
+            {
+                "id": "5a7d53f98c1ce55794164206",
+                "name": "New Folder",
+                "updateTime": "2018-02-09T07:55:37.237Z"
+            },
+            {
+                "id": "5a7d54088c1ce55794164208",
+                "name": "Week 2: Northwest (2)(2)",
+                "updateTime": "2018-02-09T07:55:52.703Z"
+            }
+        ],
+        "childProjects": [
+            {
+                "id": "5a7c09f182f03937489287e2",
+                "name": "R0010157_er.MP4",
+                "createTime": "2018-02-08T08:27:29.413Z",
+                "updateTime": "2018-02-08T08:27:29.413Z",
+                "thumbnail": "http://2mdstorage.ressvr.com/o_1c5q8brsabv8nl4r741oc31eeb8.jpg",
+                "videoUrl": "http://2mdstorage.ressvr.com/o_1c5q8brsabv8nl4r741oc31eeb8.mp4",
+                "duration": 15.222,
+                "size": 114457072
+            },
+            {
+                "id": "5a7c0dcd82f03937489287e3",
+                "name": "Play 6 China",
+                "createTime": "2018-02-08T08:43:57.777Z",
+                "updateTime": "2018-02-09T06:42:21.390Z",
+                "thumbnail": "http://2mdstorage.ressvr.com/o_1c5q9ar851fbr1lok1fnhaq9a3r8.jpg",
+                "videoUrl": "http://2mdstorage.ressvr.com/o_1c5q9ar851fbr1lok1fnhaq9a3r8.mp4",
+                "duration": 40.128,
+                "size": 47436980
+            },
+            {
+                "id": "5a7d44a18c1ce557941641e7",
+                "name": "R0010225.MP4",
+                "createTime": "2018-02-09T06:50:09.482Z",
+                "updateTime": "2018-02-09T06:50:09.482Z",
+                "thumbnail": "http://2mdstorage.ressvr.com/o_1c5sl7okr19h51apd7ti16721r8a8.jpg",
+                "videoUrl": "http://2mdstorage.ressvr.com/o_1c5sl7okr19h51apd7ti16721r8a8.mp4",
+                "duration": 18.018,
+                "size": 37244216
+            }
+
+        ]
+    }
+}
