@@ -109,6 +109,7 @@ public class MyHttp
                     progress = fileLength / totalLength ;
                     fileStream.Flush();
                     length = httpStream.Read(buffer, 0, buffer.Length);
+                    Debug.Log(length);
                 }
                 httpStream.Close();
                 httpStream.Dispose();
@@ -121,7 +122,11 @@ public class MyHttp
                 Debug.Log(fileLength + " : " + totalLength);
                 progress = fileLength / totalLength;
             }
-                
+            progress = fileLength / totalLength;
+            if (1-progress<0.0001f)
+            {
+                progress = 1;
+            }
             fileStream.Close();
             fileStream.Dispose();
         });
