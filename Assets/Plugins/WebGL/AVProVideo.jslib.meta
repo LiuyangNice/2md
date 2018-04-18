@@ -1,34 +1,19 @@
 fileFormatVersion: 2
-guid: 7252feb68c1ae69408136499642c9890
-timeCreated: 1524021491
-licenseType: Free
+guid: 676a447b782bee64aa3364c6abc3ebe6
 PluginImporter:
-  externalObjects: {}
-  serializedVersion: 2
+  serializedVersion: 1
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
-  isOverridable: 0
   platformData:
-  - first:
-      Any: 
-    second:
+    Any:
       enabled: 0
       settings: {}
-  - first:
-      Editor: Editor
-    second:
+    Editor:
       enabled: 0
       settings:
         DefaultValueInitialized: true
-  - first:
-      Facebook: WebGL
-    second:
-      enabled: 1
-      settings: {}
-  - first:
-      WebGL: WebGL
-    second:
+    WebGL:
       enabled: 1
       settings: {}
   userData: 

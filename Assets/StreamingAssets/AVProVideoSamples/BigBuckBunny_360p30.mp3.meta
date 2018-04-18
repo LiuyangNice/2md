@@ -1,9 +1,12 @@
 fileFormatVersion: 2
-guid: ce60834728ae69d47b83d0f4a3e8601b
-timeCreated: 1524021418
-licenseType: Free
-DefaultImporter:
-  externalObjects: {}
+guid: 4f746673c6abcaa458d2e762619f8c06
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 

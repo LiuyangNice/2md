@@ -1,29 +1,19 @@
 fileFormatVersion: 2
-guid: 8803640b13a201b409790e96c2dc0a18
-timeCreated: 1524021492
-licenseType: Free
+guid: 14b6e68a42f71504dade06a46dc88c87
 PluginImporter:
-  externalObjects: {}
-  serializedVersion: 2
+  serializedVersion: 1
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
-  isOverridable: 0
   platformData:
-  - first:
-      Any: 
-    second:
+    Any:
       enabled: 0
       settings: {}
-  - first:
-      Editor: Editor
-    second:
+    Editor:
       enabled: 0
       settings:
         DefaultValueInitialized: true
-  - first:
-      Windows Store Apps: WindowsStoreApps
-    second:
+    WindowsStoreApps:
       enabled: 1
       settings:
         CPU: x86

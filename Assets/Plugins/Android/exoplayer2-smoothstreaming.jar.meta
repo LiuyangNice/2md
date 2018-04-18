@@ -1,31 +1,4 @@
 fileFormatVersion: 2
-guid: 959da7025f7690e47a692cc4e4f94008
-timeCreated: 1524021492
-licenseType: Free
-PluginImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  iconMap: {}
-  executionOrder: {}
-  isPreloaded: 0
-  isOverridable: 0
-  platformData:
-  - first:
-      Android: Android
-    second:
-      enabled: 1
-      settings: {}
-  - first:
-      Any: 
-    second:
-      enabled: 0
-      settings: {}
-  - first:
-      Editor: Editor
-    second:
-      enabled: 0
-      settings:
-        DefaultValueInitialized: true
+guid: c1b987a1d8499804e9e95fe44d737f68
+DefaultImporter:
   userData: 
-  assetBundleName: 
-  assetBundleVariant: 

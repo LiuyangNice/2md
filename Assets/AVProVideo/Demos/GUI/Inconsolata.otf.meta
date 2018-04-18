@@ -1,23 +1,13 @@
 fileFormatVersion: 2
-guid: 9392b32eaedd9ae4bad3fd6d5b3d630d
-timeCreated: 1524021493
-licenseType: Free
+guid: 1102003ee10456942bffb2b369d6a7b8
 TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 2
   fontSize: 16
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
   forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
+  renderMode: 0
+  style: 0
   includeFontData: 1
-  fontName: Inconsolata
-  fontNames:
-  - Inconsolata
-  fallbackFontReferences: []
+  use2xBehaviour: 0
+  fontNames: []
   customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 

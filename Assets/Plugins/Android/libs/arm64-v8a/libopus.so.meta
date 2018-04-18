@@ -1,29 +1,21 @@
 fileFormatVersion: 2
-guid: ababa2ac28263624297de68956a65cfa
-timeCreated: 1524021492
-licenseType: Free
+guid: 16580ba152d1f204a9d04de92628f83e
+timeCreated: 1510239370
+licenseType: Store
 PluginImporter:
-  externalObjects: {}
-  serializedVersion: 2
+  serializedVersion: 1
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
-  isOverridable: 0
   platformData:
-  - first:
-      Android: Android
-    second:
-      enabled: 1
+    Android:
+      enabled: 0
       settings:
         CPU: ARMv7
-  - first:
-      Any: 
-    second:
+    Any:
       enabled: 0
       settings: {}
-  - first:
-      Editor: Editor
-    second:
+    Editor:
       enabled: 0
       settings:
         DefaultValueInitialized: true
